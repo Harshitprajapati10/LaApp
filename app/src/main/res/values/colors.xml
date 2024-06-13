@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#FEFCFF</color>
+    <color name="button_color">#000</color>
+    <color name="question_text_color">#BAABF3</color>
+    <color name="answer_text_color">#B7E1F4</color>
+
+
+</resources>
